@@ -1,0 +1,26 @@
+
+	Change to Nightlight PCB
+	------------------------
+
+
+Changes made For version 2.0 - 2021
+
+ * For this round, I substitued the IRLML6344 for the IRLML6244 because 
+   JLCPCB was out of stock of the IRLML6244
+
+ * Lowered the 1M resistors (R1 and R2) to 680K (due to occasional problems  
+   with the switch circuit)
+
+ * Reduced the holes sizes for the ICSP connector and repositioned it
+   to the board's edge (for my clip-on compression ICSP connector) 
+   Hole sizes changed to 0.036" from 0.039"
+
+Changes NOT made For version 2.0 - 2021
+ * I decided not to add a voltage reference (that would be used to dial 
+   back the PWM when the battery voltage is high, extending the battery 
+   life and having more consistent brightness) because there where no
+   unused pin.  The part that I was going to use was: REF3020AIDBZR
+
+
+
+
