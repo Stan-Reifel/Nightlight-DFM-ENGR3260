@@ -1,0 +1,25 @@
+
+	Change to Nightlight PCB
+	------------------------
+
+ * Add a voltage reference to one of the AtoD inputs, then
+   dial back the PWM when the battery voltage is high (extending the
+   battery life and having a more consistent brightness).  Might also need
+   decouple the VRef pin???
+
+ * Might try lowering the 1M resistors to 470K??? (due to occasional 
+   problems with the switch circuit)
+
+ * Reduce the holes sizes for the ICSP connector and reposition it
+   to the board's edge, so my clip-on compression ICSP connector can 
+   be used.  Reduce the hole sizes to 0.038".  
+
+
+
+
+
+REF3025AIDBZR 2.5V $0.88
+REF3012AIDBZR 1.25V $0.53
+REF3020AIDBZR 2.048V $0.46
+
+

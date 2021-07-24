@@ -1,0 +1,64 @@
+14390083955626
+@CustomFootprints
+BS_7_ND_for_CR2032
+Comfortable Electronic CR2450 battery holder, http://www.comf.com.tw/ProductDetail.asp?no=148
+Comfortable Electronic CR2450
+0
+2
+2
+@CustomFootprints
+Cap_0.1_spacing
+C, Rect series, Radial, pin pitch=2.50mm, , length*width=4*2.5mm^2, Capacitor
+C Rect series Radial pin pitch 2.50mm  length 4mm width 2.5mm Capacitor
+0
+2
+2
+@CustomFootprints
+ICSP
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+@CustomFootprints
+Jumper
+
+
+0
+2
+2
+@CustomFootprints
+Jumper-Closed
+
+
+0
+2
+2
+@CustomFootprints
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+@CustomFootprints
+OlinLogo
+
+
+0
+0
+0
+@CustomFootprints
+Power_Jack
+
+
+0
+3
+3
+@CustomFootprints
+Resistor_0.125W
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
